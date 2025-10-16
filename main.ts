@@ -4,6 +4,7 @@
  * Created on: Oct 2025
  * This program gets distance to a object and shows it using a sonar.
 */
+
 // setup
 basic.clearScreen()
 basic.showIcon(IconNames.Happy)
